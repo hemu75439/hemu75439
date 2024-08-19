@@ -1,6 +1,5 @@
 - 👋 Hi, I’m  &nbsp;<strong>Hemu</strong>&nbsp;  ( Himanshu Singh )
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working as a Full-Stack Dev with MEAN/MERN stack
+- 🌱 I’m currently working as a Full-Stack Dev
 - 💞️ I’m looking to collaborate on anything related to JavaScript
 - 📫 How to reach me :
   <ul type='rectangle'>
