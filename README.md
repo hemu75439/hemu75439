@@ -1,9 +1,9 @@
-👋 Hi, I’m Himanshu Singh!
-🌱 I’m a Full Stack Developer with a passion for creating dynamic and scalable applications.
-💻 Proficient in HTML, CSS, JavaScript, TypeScript, and modern frameworks like React.js, Angular, and Vue.js.
-🐍 I also work with Node.js, Express, Python, and Django, alongside databases such as MySQL and MongoDB.
-☁️ Currently exploring cloud technologies with AWS and Docker.
-💞️ I’m looking to collaborate on exciting projects related to JavaScript and beyond!
+- 👋 Hi, I’m Himanshu Singh!
+- 🌱 I’m a Full Stack Developer with a passion for creating dynamic and scalable applications.
+- 💻 Proficient in HTML, CSS, JavaScript, TypeScript, and modern frameworks like React.js, Angular, and Vue.js.
+- 🐍 I also work with Node.js, Express, Python, and Django, alongside databases such as MySQL and MongoDB.
+- ☁️ Currently exploring cloud technologies with AWS and Docker.
+- 💞️ I’m looking to collaborate on exciting projects related to JavaScript and beyond!
 
 📫 How to reach me:
 <ul type='rectangle'> 
